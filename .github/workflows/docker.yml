@@ -3,7 +3,7 @@ name: Aorax Docker CI/CD
 on:
   push:
     branches:
-      - main
+      - Aorax_Dev
 
 jobs:
   docker:
